@@ -18,16 +18,7 @@ Sou **Analista de Sistemas** e desenvolvedor **Fullstack** apaixonado por tecnol
 - **Front-end:** React, JavaScript, HTML, CSS
 - **Back-end:** Node.js, Express, Django, Python
 - **Banco de Dados:** MySQL, MongoDB, PostgreSQL
-- **Outros:** Git, GitHub, APIs REST
-
----
-
-## 📌 Projetos em destaque
-
-Confira meus repositórios públicos no GitHub!  
-*Aqui você encontra projetos de estudo, desafios e contribuições open source.*
-
-[Veja todos os meus projetos aqui](https://github.com/ivanmurja?tab=repositories)
+- **Outros:** Git, GitHub, APIs
 
 ---
 
