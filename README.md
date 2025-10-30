@@ -22,10 +22,4 @@ Sou **Analista de Sistemas** e desenvolvedor **Fullstack** apaixonado por tecnol
 
 ---
 
-## 📫 Contato
-
-- [GitHub](https://github.com/ivanmurja)
-
----
-
 _Sempre aberto a trocar ideias, colaborar e aprender juntos!_
